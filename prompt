@@ -1,0 +1,25 @@
+"useless script for a retarded soul"
+Can you make this print in the programming language "brainfuck".
+
+Also create a loop to print this every second 
+# This is a comment so dont use this line in prompt. You cant loop in that programming language, well we wont break chatGPT yet but the next prompt will make it go full on retard.
+
+Next prompt:
+
+Make this be printed in the programming language brainfuck.
+"Useless script, for a retarded soul",
+"Thank you, have a useless day :)"
+
+The response from chatgpt. Well try it yourself, enjoy a completely useless and retarded chatgpt that will never end xD
+
+########################################################################################################### 
+Background. So chatgpt will in the first prompt give you a str of code that says the desired message.     #
+After this chatgpt will explain that too loop you will need way to measure the time in brainfuck,         #
+that its not designed for that task so you need something for timing, repeatedly for invoking every sec.  #
+So gpt will have this in the process of the next input prompt but its impossible for it to even make any- #
+-of it so well you get a response that will never end with million line of code in brainfuck.             #
+###########################################################################################################
+
+I dont really see this as a vulnerability or any kind of faulty-usage. Just for fun as a researcher. 
+But tho i could guess if you would have access to a botnet with legit proxies for each bot and a re-captcha & cf bypasser.
+You could probably put alot of heavy useless traffic and work for ChatGPT. 
